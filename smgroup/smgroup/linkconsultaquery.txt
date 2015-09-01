@@ -1,0 +1,5 @@
+http://www.mclibre.org/consultar/php/lecciones/php_db_pdo.html
+
+traer datos por mysql al formulario y editar
+
+http://paginaswebconphp.blogspot.com/2010/07/mostrar-datos-de-mysql-en-formularios.html
